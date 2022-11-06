@@ -14,7 +14,7 @@
 DictHewan = {"Domain" : "Eukayota", "Kingdom" : "Animalia",
              "Phylum" : "Chordata", "Class" : "Mammalia",
              "Order" : "Carnivora", "Family" : "Felidae",
-             "Genus" : "Felis", "Species" : "Felis catus",
+             "Genus" : "Felis", "Species" : "catus",
              "Nama_Lokal": "Kucing Rumah"
              }
 
