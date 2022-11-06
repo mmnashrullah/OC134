@@ -3,6 +3,6 @@
 # Nama - nama basa pada DNA
 # Adenine, Cytosine, Thymine, Guanine
 
-BNDNA = ("Adenine", "Cytosine", "Thymine", "Guanine")
+BNDNA = set("Adenine", "Cytosine", "Thymine", "Guanine")
 
 print(BNDNA)
