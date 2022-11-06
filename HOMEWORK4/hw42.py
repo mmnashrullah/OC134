@@ -12,12 +12,12 @@ def Faktorial(n):
 def Permutasi(n, r):
     # n = banyak objek keseluruhan
     # r = banyak objek yang diberi perlakuan
-    return Faktorial(n) / Faktorial(n - r) 
+    return (Faktorial(n) / Faktorial(n - r))
     
 def Kombinasi(n, r):
     # n = banyak objek keseluruhan
     # r = banyak objek yang diberi perlakuan
-    return Faktorial(n) / (Faktorial(r) * Faktorial(n - r)) 
+    return (Faktorial(n) / (Faktorial(r) * Faktorial(n - r)))
 
 def main():
     print("Menghitung Banyak Faktorial, Permutasi, Kombinasi")
